@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My FirstApp</string>
+    <string name="button_moyashi">もやし</string>
+    <string name="button_tamago">卵</string>
+    <string name="button_tomato">トマト</string>
+    <string name="button_cheeze">チーズ</string>
+    <string name="button_natto">納豆</string>
+    <string name="button_milk">牛乳</string>
+    <string name="button_orangeJuice">オレンジジュース</string>
+</resources>
